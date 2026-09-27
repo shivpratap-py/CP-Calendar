@@ -86,7 +86,7 @@ This project is also being developed as a way to learn and practice:
 
 ## 👨‍💻 Author
 
-**Shivam Maurya**
+**Shivpratap Maurya**
 
 GitHub: **[@shivpratap-py](https://github.com/shivpratap-py)**
 
