@@ -1,0 +1,79 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0f1117;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.upcomingContest {
+    width: 450px;
+    min-height: 300px;
+    padding: 40px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    background: #181b24;
+    border: 1px solid #2a2e3a;
+    border-radius: 18px;
+
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+}
+
+#name {
+    margin-bottom: 25px;
+}
+
+#name {
+    font-size: 26px;
+    color: white;
+}
+
+#duration,
+#date {
+    margin: 8px 0;
+    color: #b8bdc9;
+    font-size: 16px;
+}
+
+.link {
+    margin-top: 25px;
+}
+
+#registerBtn {
+    display: inline-block;
+    padding: 12px 25px;
+
+    color: white;
+    background: #2563eb;
+
+    text-decoration: none;
+    border-radius: 8px;
+
+    transition: 0.2s;
+}
+
+#registerBtn:hover {
+    background: #1d4ed8;
+    transform: translateY(-2px);
+}
