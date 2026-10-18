@@ -6,7 +6,7 @@ The project fetches contest data from the **Codeforces API**, finds the next upc
 
 ## 🌐 Live Demo
 
-**[View CP Calendar](https://shivpratap-py.github.io/CP-calendar/)**
+**[View CP Calendar](https://shivpratap-py.github.io/CP-Calendar/)**
 
 ## ✨ Features
 
